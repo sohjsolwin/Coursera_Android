@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298717249_1" label="Lesson 1" name="Lesson 1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ActivityLab" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ActivityLabTest" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298904340_2" label="Lecture Projects" name="Lecture Projects">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GridLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InternalFileWriteReadActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AsyncTaskActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsPaintActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DangerousApp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/StickyIntentBroadcastReceiverActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationStatusBarWithCustomViewActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioRecordingActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RatingsBarActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HandlerMessagesActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DatabaseExampleActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TableLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BoomUserActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ShapeDrawActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/google-play-services_lib" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExternalFileWriteReadActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AutoCompleteActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloTabWidget" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ViewFlipperTestActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MusicServiceClient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlertDialogActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationToastActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoRingtoneManagerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsTweenAnimationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MainActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HandlerRunnableActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoggingServiceWithMessenger" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LinearLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleBroadcast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SharedPreferenceReadWriteActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RelativeLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MapsEarthquakeMapActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DatePickerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoggingServiceClient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsFrameAnimationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CustomContactProviderDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MapLocationFromContactsActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RadioGroupActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SingleBroadcast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationStatusBarActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NetworkingSocketsActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TransitionDrawableActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoAudioManagerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompassActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroidTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoVideoPlayActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlarmCreateActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckBoxActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GesturesActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/KeyServiceUser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ServiceWithIPCExampleService" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GoogleMapActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleThreadingExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderCustom" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckActivityIntents" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NoThreadingExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroidWithMenuActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ToggleButtonActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundBroadcast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PreferencesActivityExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TitlesListActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoCameraActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BoomActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MapLocation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GalleryActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundOrderedBroadcast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckBroadcastIntents" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TheAnswer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ListViewActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ButtonActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BubbleActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NetworkingURLActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoginScreen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleThreadingViewPostActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpinnerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LocationGetLocationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IndicateTouchLocationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsViewPropertyAnimatorActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContactsListExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DataTransferActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WebViewActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InsertActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NetworkingAndroidHttpClientActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TabLayoutActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ValueAnimatorActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TimePickerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundOrderedBroadcastWithResultReceiver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/QuoteViewerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroid" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298943301_3" label="Lesson 2" name="Lesson 2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLabTestTablet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IntentsLab" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IntentsLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLab" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLabTestPhone" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DangerousApp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyBrowser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PermissionsLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PermissionsLab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392765815152_13" label="Lesson 3" name="Lesson 3">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UILabs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UILabsTest" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392765822342_14" label="Lesson 4" name="Lesson 4">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationsLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationsLab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394056595013_19" label="Lesson 5" name="Lesson 5">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsLab" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsLabTest" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394056658701_20" label="Lesson 6" name="Lesson 6">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LocationLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LocationLab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394056705302_21" label="Final Project" name="Final Project">
+<item elementID="=iRemember-Skeleton" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=iRememberContentProvider" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395267765930_27" label="Lesson 7" name="Lesson 7">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderLabUser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderLabContentProvider" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400337014486_49" label="POSA" name="POSA">
+<item elementID="=W3-A2-PalantirManager" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W1-A0-SynchronizedQueueTestv2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W4-A3-PingPongRight" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ThreadedDownloads" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BuggyQueue" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W1-A0-SynchronizedQueueTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PingPongConsole" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W2-A1-SimpleAtomicLong" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402010218303_52" label="POSA-GradingDrivers" name="POSA-GradingDrivers">
+<item elementID="=W3-A2-PalantirManager/src&lt;edu.vuum.mocca{SimpleAtomicLong.java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W2-A1-SimpleAtomicLong-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845661624_55" label="POSA Grading" name="POSA Grading">
+<item elementID="=W1-A0-SynchronizedQueueTest-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W2-A1-SimpleAtomicLong-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W3-A2-PalantirManager-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W4-A3-PingPongRight-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W5-A4-Android-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W5-A4-Android-Test-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298002096_0" label="Window Working Set" name="Aggregate for window 1392298002095"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392309448951_4" label="Window Working Set" name="Aggregate for window 1392309448951"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392316531552_5" label="Window Working Set" name="Aggregate for window 1392316531551"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392317547123_6" label="Window Working Set" name="Aggregate for window 1392317547123"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392318674580_7" label="Window Working Set" name="Aggregate for window 1392318674580"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392326821171_8" label="Window Working Set" name="Aggregate for window 1392326821171"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392473615091_9" label="Window Working Set" name="Aggregate for window 1392473615091"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392474126438_10" label="Window Working Set" name="Aggregate for window 1392474126438"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392764800802_12" label="Window Working Set" name="Aggregate for window 1392764800802"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393680979781_14" label="Window Working Set" name="Aggregate for window 1393680979781"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393689971719_16" label="Window Working Set" name="Aggregate for window 1393689971719"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393690052554_17" label="Window Working Set" name="Aggregate for window 1393690052554"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394056539831_17" label="Window Working Set" name="Aggregate for window 1394056539831"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394228941453_22" label="Window Working Set" name="Aggregate for window 1394228941453"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394241440946_22" label="Window Working Set" name="Aggregate for window 1394241440946"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1394876352117_24" label="Window Working Set" name="Aggregate for window 1394876352117"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395010161956_24" label="Window Working Set" name="Aggregate for window 1395010161956"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395266113137_25" label="Window Working Set" name="Aggregate for window 1395266113137"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395268021219_28" label="Window Working Set" name="Aggregate for window 1395268021219"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395268140882_29" label="Window Working Set" name="Aggregate for window 1395268140882"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395268758467_30" label="Window Working Set" name="Aggregate for window 1395268758467"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395269101200_31" label="Window Working Set" name="Aggregate for window 1395269101200"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314102122_32" label="Window Working Set" name="Aggregate for window 1395314102122"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314142583_33" label="Window Working Set" name="Aggregate for window 1395314142583"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314442073_34" label="Window Working Set" name="Aggregate for window 1395314442073"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314543005_35" label="Window Working Set" name="Aggregate for window 1395314543005"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314793614_36" label="Window Working Set" name="Aggregate for window 1395314793614"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395314981951_37" label="Window Working Set" name="Aggregate for window 1395314981950"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395315197289_38" label="Window Working Set" name="Aggregate for window 1395315197289"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395315267402_39" label="Window Working Set" name="Aggregate for window 1395315267402"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395440553338_40" label="Window Working Set" name="Aggregate for window 1395440553338"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1395873044591_41" label="Window Working Set" name="Aggregate for window 1395873044591"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1396032690837_42" label="Window Working Set" name="Aggregate for window 1396032690837"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1396033074055_43" label="Window Working Set" name="Aggregate for window 1396033074055"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1396036405700_44" label="Window Working Set" name="Aggregate for window 1396036405699"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1396037724563_45" label="Window Working Set" name="Aggregate for window 1396037724563"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1396311225560_46" label="Window Working Set" name="Aggregate for window 1396311225560"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400336037636_47" label="Window Working Set" name="Aggregate for window 1400336037636"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400336777182_48" label="Window Working Set" name="Aggregate for window 1400336777182"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400518729413_49" label="Window Working Set" name="Aggregate for window 1400518729413"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401648185106_51" label="Window Working Set" name="Aggregate for window 1401648185106"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845473656_53" label="Window Working Set" name="Aggregate for window 1402845473656"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845526814_54" label="Window Working Set" name="Aggregate for window 1402845526814"/>
+<mruList name="POSA-GradingDrivers"/>
+<mruList name="POSA"/>
+<mruList name="Lesson 7"/>
+<mruList name="Final Project"/>
+<mruList name="Lesson 6"/>
+</workingSetManager>
