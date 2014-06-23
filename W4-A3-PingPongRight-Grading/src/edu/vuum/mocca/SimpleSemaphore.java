@@ -73,13 +73,11 @@ public class SimpleSemaphore {
     	rwlock.lock();
     	try {
     		while (permitCount <= 0)
-    			noPermits.await();
+    			noPermits.awaitUninterruptibly();
     		
     		permitCount--;
     		noPermits.signal();
     		return;
-    	} catch (InterruptedException e) {
-			e.printStackTrace();
 		} finally {
     		rwlock.unlock();
     	}

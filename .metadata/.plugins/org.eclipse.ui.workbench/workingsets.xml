@@ -17,18 +17,18 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HandlerMessagesActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DatabaseExampleActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TableLayoutActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BoomUserActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ShapeDrawActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BoomUserActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/google-play-services_lib" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExternalFileWriteReadActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AutoCompleteActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloTabWidget" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ViewFlipperTestActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MusicServiceClient" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlertDialogActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ViewFlipperTestActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloTabWidget" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NotificationToastActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoRingtoneManagerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlertDialogActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsTweenAnimationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoRingtoneManagerActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MainActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HandlerRunnableActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoggingServiceWithMessenger" type="4"/>
@@ -53,14 +53,14 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoVideoPlayActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AlarmCreateActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckBoxActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GesturesActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/KeyServiceUser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GesturesActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ServiceWithIPCExampleService" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GoogleMapActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleThreadingExample" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderCustom" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckActivityIntents" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NoThreadingExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckActivityIntents" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContentProviderCustom" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleThreadingExample" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroidWithMenuActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ToggleButtonActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundBroadcast" type="4"/>
@@ -69,41 +69,41 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AudioVideoCameraActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BoomActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MapLocation" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GalleryActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundOrderedBroadcast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GalleryActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CheckBroadcastIntents" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TheAnswer" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ListViewActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ButtonActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TheAnswer" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BubbleActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ButtonActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NetworkingURLActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoginScreen" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SimpleThreadingViewPostActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpinnerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LoginScreen" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LocationGetLocationActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpinnerActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IndicateTouchLocationActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsViewPropertyAnimatorActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ContactsListExample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GraphicsViewPropertyAnimatorActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DataTransferActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WebViewActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InsertActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WebViewActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/NetworkingAndroidHttpClientActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TabLayoutActivity" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ValueAnimatorActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TimePickerActivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ValueAnimatorActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CompoundOrderedBroadcastWithResultReceiver" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/QuoteViewerActivity" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloAndroid" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/QuoteViewerActivity" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298943301_3" label="Lesson 2" name="Lesson 2">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLabTestTablet" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IntentsLab" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IntentsLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/IntentsLab" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLabTestTablet" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLab" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FragmentsLabTestPhone" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DangerousApp" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyBrowser" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PermissionsLabTest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyBrowser" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PermissionsLab" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392765815152_13" label="Lesson 3" name="Lesson 3">
@@ -133,13 +133,18 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1400337014486_49" label="POSA" name="POSA">
 <item elementID="=W3-A2-PalantirManager" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=W1-A0-SynchronizedQueueTestv2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W4-A3-PingPongRight" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W1-A0-SynchronizedQueueTestv2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ThreadedDownloads" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=BuggyQueue" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W1-A0-SynchronizedQueueTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=PingPongConsole" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W2-A1-SimpleAtomicLong" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PingPongConsole" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W5-A4-Android" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W5-A4-Android-Test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W6-A5-ThreadedDownloads-StartedServices" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W6-A5-ThreadedDownloads-StartedServices-Tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W7-A6-iRememberSecurity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402010218303_52" label="POSA-GradingDrivers" name="POSA-GradingDrivers">
 <item elementID="=W3-A2-PalantirManager/src&lt;edu.vuum.mocca{SimpleAtomicLong.java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -147,11 +152,13 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845661624_55" label="POSA Grading" name="POSA Grading">
 <item elementID="=W1-A0-SynchronizedQueueTest-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=W2-A1-SimpleAtomicLong-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W3-A2-PalantirManager-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W5-A4-Android-Test-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W2-A1-SimpleAtomicLong-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W4-A3-PingPongRight-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=W5-A4-Android-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=W5-A4-Android-Test-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W6-A5-ThreadedDownloads-StartedServices-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=W6-A5-ThreadedDownloads-StartedServices-Tests-Grading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392298002096_0" label="Window Working Set" name="Aggregate for window 1392298002095"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392309448951_4" label="Window Working Set" name="Aggregate for window 1392309448951"/>
@@ -196,6 +203,7 @@
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1401648185106_51" label="Window Working Set" name="Aggregate for window 1401648185106"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845473656_53" label="Window Working Set" name="Aggregate for window 1402845473656"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1402845526814_54" label="Window Working Set" name="Aggregate for window 1402845526814"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1403483963866_55" label="Window Working Set" name="Aggregate for window 1403483963866"/>
 <mruList name="POSA-GradingDrivers"/>
 <mruList name="POSA"/>
 <mruList name="Lesson 7"/>
