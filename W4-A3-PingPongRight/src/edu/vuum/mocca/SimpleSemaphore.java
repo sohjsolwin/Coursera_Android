@@ -57,7 +57,6 @@ public class SimpleSemaphore {
     		
     		
     		permitCount--;
-    		noPermits.signal();
     		return;
     	} finally {
     		rwlock.unlock();
@@ -76,7 +75,6 @@ public class SimpleSemaphore {
     			noPermits.awaitUninterruptibly();
     		
     		permitCount--;
-    		noPermits.signal();
     		return;
 		} finally {
     		rwlock.unlock();
